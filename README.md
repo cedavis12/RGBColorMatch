@@ -1,4 +1,5 @@
-# RGB Matcher
+# RGB Matcher <a href="https://apps.apple.com/us/app/rgb-matcher/id1515839604?ls=1"><img src="https://cedavis12.github.io/rgbmatcher/img/app-store-badge.svg"/></a>
+
 RGB Matcher is a fun, challenging color matching game
 
 <img src="https://cedavis12.github.io/rgbmatcher/img/Collection.png" alt="app store image"/>
@@ -20,5 +21,4 @@ In Beat the Clock, try to solve as many color boards in 30 seconds. When the tim
 Built using: Swift, UIKit, Storyboard, Xcode
 
 
-<a href="https://apps.apple.com/us/app/rgb-matcher/id1515839604?ls=1"><img src="https://cedavis12.github.io/rgbmatcher/img/app-store-badge.svg"/></a>
 
