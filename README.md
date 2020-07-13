@@ -21,4 +21,4 @@ Built using: Swift, UIKit, Storyboard, Xcode
 
 ## App Store Link
 <img src="https://cedavis12.github.io/rgbmatcher/img/app-store-badge.svg"/>
-[Available only on the App Store](https://apps.apple.com/us/app/rgb-matcher/id1515839604?ls=)
+[Available only on the App Store](https://apps.apple.com/us/app/rgb-matcher/id1515839604?ls=1)
