@@ -1,4 +1,5 @@
 # RGB Matcher
+< a href="https://apps.apple.com/us/app/rgb-matcher/id1515839604?ls=1"><img src="https://cedavis12.github.io/rgbmatcher/img/app-store-badge.svg"></a>
 
 RGB Matcher is a fun, challenging color matching game
 
