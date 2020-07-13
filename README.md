@@ -19,8 +19,6 @@ In Beat the Clock, try to solve as many color boards in 30 seconds. When the tim
 ## Tech Stack
 Built using: Swift, UIKit, Storyboard, Xcode
 
-## App Store Link
-<img src="https://cedavis12.github.io/rgbmatcher/img/app-store-badge.svg"/>
-<a href="https://apps.apple.com/us/app/rgb-matcher/id1515839604?ls=1">Available only on the App Store</a>
+
 <a href="https://apps.apple.com/us/app/rgb-matcher/id1515839604?ls=1"><img src="https://cedavis12.github.io/rgbmatcher/img/app-store-badge.svg"/></a>
 
